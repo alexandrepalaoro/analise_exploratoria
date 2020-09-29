@@ -1,5 +1,5 @@
 ### Código das três figuras geradas no R do post sobre análises exploratórias ###
-#   Link do post: XXXXX                                                   #
+#   Link do post: https://marcoarmello.wordpress.com/?p=15821                   #
 
 ### ---- GERANDO UMA DISTRIBUIÇÃO NORMAL ---- ####
 
@@ -35,3 +35,4 @@ plot(a1~a2,ylim=c(-2,10),xlab="Massa (log)", ylab="Comprimento (log)",bty='l',
      las=1,pch=21,cex=2,col='grey',bg='grey')
 points(1,8,cex=2,pch=21,bg='black')
 #dev.off()
+
