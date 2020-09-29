@@ -1,10 +1,8 @@
-### Código das três figuras geradas no R do post sobre análises exploratórias ###
-<<<<<<< HEAD
-#   Link do post: https://marcoarmello.wordpress.com/?p=15821                   #
-=======
-#   Veja o README para mais informações:                                        #
-#   https://github.com/alexandrepalaoro/analise_exploratoria/blob/master/README.md
->>>>>>> a84764a538bfac90599a67463e5d466527f59a15
+### Código das três figuras geradas no R do post sobre análises exploratórias       ###
+#   Link do post: https://marcoarmello.wordpress.com/?p=15821                         #
+#   Veja o README para mais informações:                                              #
+#   https://github.com/alexandrepalaoro/analise_exploratoria/blob/master/README.md    #
+
 
 ### ---- GERANDO UMA DISTRIBUIÇÃO NORMAL ---- ####
 
