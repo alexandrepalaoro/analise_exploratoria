@@ -10,9 +10,9 @@ E-mail: alexandre.palaoro@gmail.com
 
 Título: Simulações de distribuição usadas no post do blog
 
-Publicado originalmente em xx de setembro de 2020 (versão em português).
+Publicado originalmente em 30 de setembro de 2020 (versão em português).
 
-Atualizado e lançado em xx de setembro de 2020.
+Atualizado e lançado em 30 de setembro de 2020.
 
 Rodado no R version 4.0.2 (2020-06-22) -- "Taking Off Again"
 
