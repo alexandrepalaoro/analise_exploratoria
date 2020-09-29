@@ -1,14 +1,15 @@
 ### Código das três figuras geradas no R do post sobre análises exploratórias ###
-#   Link do post: XXXXX                                                   #
+#   Veja o README para mais informações:                                        #
+#   https://github.com/alexandrepalaoro/analise_exploratoria/blob/master/README.md
 
 ### ---- GERANDO UMA DISTRIBUIÇÃO NORMAL ---- ####
 
 # Nota: o png e o dev.off() são comandos para exportar a figura
-# para o diretório de trabalho. Caso queiram exportar, é só tirar
+# para o diretório de trabalho. Caso queira exportar, é só tirar
 # o sustenido.
 
 #png("distrib-normal.png",res=600,w=140,h=100,units='mm')
-media <- seq (0,4,0.1)
+media <- seq(0,4,0.1)
 plot(media, dnorm(media,2,0.5),bty='l',xlab = "Média", ylab = "Densidade", 
      main = "Distribuição Normal",col='grey30',type='l',lwd=2)
 abline(v=2,lwd=2,lty=2,col='grey')
