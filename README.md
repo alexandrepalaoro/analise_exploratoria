@@ -8,7 +8,11 @@ Autor: Alexandre V. Palaoro
 
 E-mail: alexandre.palaoro@gmail.com
 
-Publicado originalmente em 28 de setembro de 2020 (versão em português)
+Título: Simulações de distribuição usadas no post do blog
+
+Publicado originalmente em 30 de setembro de 2020 (versão em português).
+
+Atualizado e lançado em 30 de setembro de 2020.
 
 Rodado no R version 4.0.2 (2020-06-22) -- "Taking Off Again"
 
